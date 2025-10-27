@@ -1,0 +1,2582 @@
+==========================================
+SLURM_JOB_ID = 853638
+SLURM_NODELIST = gnode032
+SLURM_JOB_GPUS = 0
+==========================================
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+                  R2022a (9.12.0.1884302) 64-bit (glnxa64)
+                             February 16, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+group =
+
+    'abide_nyu'
+
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 12).
+
+ans =
+
+     9
+
+
+ans =
+
+     4
+
+
+ans =
+
+     2
+
+
+ans =
+
+     7
+
+
+ans =
+
+     8
+
+
+ans =
+
+     5
+
+
+ans =
+
+    11
+
+
+ans =
+
+     3
+
+
+ans =
+
+    10
+
+
+ans =
+
+    12
+
+
+ans =
+
+     6
+
+
+ans =
+
+     1
+
+
+ans =
+
+     1
+
+
+ans =
+
+     9
+
+
+ans =
+
+     1
+
+
+ans =
+
+     4
+
+
+ans =
+
+     1
+
+
+ans =
+
+     2
+
+
+ans =
+
+     1
+
+
+ans =
+
+     7
+
+
+ans =
+
+     1
+
+
+ans =
+
+     5
+
+
+ans =
+
+     1
+
+
+ans =
+
+     8
+
+
+ans =
+
+     1
+
+
+ans =
+
+    11
+
+
+ans =
+
+     1
+
+
+ans =
+
+     3
+
+
+ans =
+
+     1
+
+
+ans =
+
+     6
+
+
+ans =
+
+     1
+
+
+ans =
+
+    10
+
+
+ans =
+
+     1
+
+
+ans =
+
+    12
+
+
+ans =
+
+     1
+
+
+ans =
+
+     1
+
+
+ans =
+
+     2
+
+
+ans =
+
+     9
+
+
+ans =
+
+     2
+
+
+ans =
+
+     4
+
+
+ans =
+
+     2
+
+
+ans =
+
+     2
+
+
+ans =
+
+     2
+
+
+ans =
+
+     7
+
+
+ans =
+
+     2
+
+
+ans =
+
+     5
+
+
+ans =
+
+     2
+
+
+ans =
+
+    11
+
+
+ans =
+
+     2
+
+
+ans =
+
+     8
+
+
+ans =
+
+     2
+
+
+ans =
+
+     6
+
+
+ans =
+
+     2
+
+
+ans =
+
+    10
+
+
+ans =
+
+     2
+
+
+ans =
+
+    12
+
+
+ans =
+
+     2
+
+
+ans =
+
+     3
+
+
+ans =
+
+     2
+
+
+ans =
+
+     1
+
+
+ans =
+
+     3
+
+
+ans =
+
+     9
+
+
+ans =
+
+     3
+
+
+ans =
+
+     4
+
+
+ans =
+
+     3
+
+
+ans =
+
+     2
+
+
+ans =
+
+     3
+
+
+ans =
+
+     7
+
+
+ans =
+
+     3
+
+
+ans =
+
+    11
+
+
+ans =
+
+     3
+
+
+ans =
+
+     5
+
+
+ans =
+
+     3
+
+
+ans =
+
+     8
+
+
+ans =
+
+     3
+
+
+ans =
+
+     6
+
+
+ans =
+
+     3
+
+
+ans =
+
+    10
+
+
+ans =
+
+     3
+
+
+ans =
+
+    12
+
+
+ans =
+
+     3
+
+
+ans =
+
+     3
+
+
+ans =
+
+     3
+
+
+ans =
+
+     1
+
+
+ans =
+
+     4
+
+
+ans =
+
+     9
+
+
+ans =
+
+     4
+
+
+ans =
+
+     4
+
+
+ans =
+
+     4
+
+
+ans =
+
+     2
+
+
+ans =
+
+     4
+
+
+ans =
+
+     7
+
+
+ans =
+
+     4
+
+
+ans =
+
+     8
+
+
+ans =
+
+     4
+
+
+ans =
+
+    11
+
+
+ans =
+
+     4
+
+
+ans =
+
+     5
+
+
+ans =
+
+     4
+
+
+ans =
+
+     6
+
+
+ans =
+
+     4
+
+
+ans =
+
+    12
+
+
+ans =
+
+     4
+
+
+ans =
+
+    10
+
+
+ans =
+
+     4
+
+
+ans =
+
+     3
+
+
+ans =
+
+     4
+
+
+ans =
+
+     1
+
+
+ans =
+
+     5
+
+
+ans =
+
+     9
+
+
+ans =
+
+     5
+
+
+ans =
+
+     4
+
+
+ans =
+
+     5
+
+
+ans =
+
+     2
+
+
+ans =
+
+     5
+
+
+ans =
+
+     7
+
+
+ans =
+
+     5
+
+
+ans =
+
+     5
+
+
+ans =
+
+     5
+
+
+ans =
+
+    11
+
+
+ans =
+
+     5
+
+
+ans =
+
+     8
+
+
+ans =
+
+     5
+
+
+ans =
+
+     6
+
+
+ans =
+
+     5
+
+
+ans =
+
+     3
+
+
+ans =
+
+     5
+
+
+ans =
+
+    12
+
+
+ans =
+
+     5
+
+
+ans =
+
+    10
+
+
+ans =
+
+     5
+
+
+ans =
+
+     1
+
+
+ans =
+
+     6
+
+
+ans =
+
+     9
+
+
+ans =
+
+     6
+
+
+ans =
+
+     4
+
+
+ans =
+
+     6
+
+
+ans =
+
+     2
+
+
+ans =
+
+     6
+
+
+ans =
+
+     7
+
+
+ans =
+
+     6
+
+
+ans =
+
+     5
+
+
+ans =
+
+     6
+
+
+ans =
+
+    11
+
+
+ans =
+
+     6
+
+
+ans =
+
+     8
+
+
+ans =
+
+     6
+
+
+ans =
+
+     6
+
+
+ans =
+
+     6
+
+
+ans =
+
+     3
+
+
+ans =
+
+     6
+
+
+ans =
+
+    12
+
+
+ans =
+
+     6
+
+
+ans =
+
+    10
+
+
+ans =
+
+     7
+
+
+ans =
+
+     9
+
+
+ans =
+
+     6
+
+
+ans =
+
+     1
+
+
+ans =
+
+     7
+
+
+ans =
+
+     4
+
+
+ans =
+
+     7
+
+
+ans =
+
+     2
+
+
+ans =
+
+     7
+
+
+ans =
+
+     7
+
+
+ans =
+
+     7
+
+
+ans =
+
+     5
+
+
+ans =
+
+     7
+
+
+ans =
+
+    11
+
+
+ans =
+
+     7
+
+
+ans =
+
+     8
+
+
+ans =
+
+     7
+
+
+ans =
+
+     6
+
+
+ans =
+
+     8
+
+
+ans =
+
+     9
+
+
+ans =
+
+     7
+
+
+ans =
+
+     3
+
+
+ans =
+
+     7
+
+
+ans =
+
+    12
+
+
+ans =
+
+     8
+
+
+ans =
+
+     4
+
+
+ans =
+
+     7
+
+
+ans =
+
+    10
+
+
+ans =
+
+     7
+
+
+ans =
+
+     1
+
+
+ans =
+
+     8
+
+
+ans =
+
+     2
+
+
+ans =
+
+     8
+
+
+ans =
+
+     7
+
+
+ans =
+
+     8
+
+
+ans =
+
+     5
+
+
+ans =
+
+     8
+
+
+ans =
+
+    11
+
+
+ans =
+
+     9
+
+
+ans =
+
+     9
+
+
+ans =
+
+     8
+
+
+ans =
+
+     8
+
+
+ans =
+
+     8
+
+
+ans =
+
+     6
+
+
+ans =
+
+     9
+
+
+ans =
+
+     4
+
+
+ans =
+
+     8
+
+
+ans =
+
+     3
+
+
+ans =
+
+     8
+
+
+ans =
+
+    12
+
+
+ans =
+
+     8
+
+
+ans =
+
+    10
+
+
+ans =
+
+     9
+
+
+ans =
+
+     2
+
+
+ans =
+
+     8
+
+
+ans =
+
+     1
+
+
+ans =
+
+     9
+
+
+ans =
+
+     7
+
+
+ans =
+
+    10
+
+
+ans =
+
+     9
+
+
+ans =
+
+     9
+
+
+ans =
+
+    11
+
+
+ans =
+
+     9
+
+
+ans =
+
+     5
+
+
+ans =
+
+    10
+
+
+ans =
+
+     4
+
+
+ans =
+
+     9
+
+
+ans =
+
+     8
+
+
+ans =
+
+     9
+
+
+ans =
+
+     6
+
+
+ans =
+
+     9
+
+
+ans =
+
+     3
+
+
+ans =
+
+    10
+
+
+ans =
+
+     2
+
+
+ans =
+
+     9
+
+
+ans =
+
+    12
+
+
+ans =
+
+     9
+
+
+ans =
+
+    10
+
+
+ans =
+
+     9
+
+
+ans =
+
+     1
+
+
+ans =
+
+    11
+
+
+ans =
+
+     9
+
+
+ans =
+
+    10
+
+
+ans =
+
+     7
+
+
+ans =
+
+    11
+
+
+ans =
+
+     4
+
+
+ans =
+
+    10
+
+
+ans =
+
+     5
+
+
+ans =
+
+    10
+
+
+ans =
+
+    11
+
+
+ans =
+
+    10
+
+
+ans =
+
+     6
+
+
+ans =
+
+    10
+
+
+ans =
+
+     8
+
+
+ans =
+
+    11
+
+
+ans =
+
+     2
+
+
+ans =
+
+    10
+
+
+ans =
+
+     3
+
+
+ans =
+
+    10
+
+
+ans =
+
+    12
+
+
+ans =
+
+    10
+
+
+ans =
+
+    10
+
+
+ans =
+
+    10
+
+
+ans =
+
+     1
+
+
+ans =
+
+    12
+
+
+ans =
+
+     9
+
+
+ans =
+
+    11
+
+
+ans =
+
+     7
+
+
+ans =
+
+    12
+
+
+ans =
+
+     4
+
+
+ans =
+
+    11
+
+
+ans =
+
+    11
+
+
+ans =
+
+    11
+
+
+ans =
+
+     5
+
+
+ans =
+
+    12
+
+
+ans =
+
+     2
+
+
+ans =
+
+    11
+
+
+ans =
+
+     8
+
+
+ans =
+
+    11
+
+
+ans =
+
+     6
+
+
+ans =
+
+    11
+
+
+ans =
+
+     3
+
+
+ans =
+
+    11
+
+
+ans =
+
+    12
+
+
+ans =
+
+    11
+
+
+ans =
+
+    10
+
+
+ans =
+
+    11
+
+
+ans =
+
+     1
+
+
+ans =
+
+    13
+
+
+ans =
+
+     9
+
+
+ans =
+
+    13
+
+
+ans =
+
+     4
+
+
+ans =
+
+    12
+
+
+ans =
+
+     7
+
+
+ans =
+
+    12
+
+
+ans =
+
+    11
+
+
+ans =
+
+    12
+
+
+ans =
+
+     5
+
+
+ans =
+
+    13
+
+
+ans =
+
+     2
+
+
+ans =
+
+    12
+
+
+ans =
+
+     6
+
+
+ans =
+
+    12
+
+
+ans =
+
+     8
+
+
+ans =
+
+    12
+
+
+ans =
+
+     3
+
+
+ans =
+
+    12
+
+
+ans =
+
+    12
+
+
+ans =
+
+    12
+
+
+ans =
+
+    10
+
+
+ans =
+
+    12
+
+
+ans =
+
+     1
+
+
+ans =
+
+    14
+
+
+ans =
+
+     9
+
+
+ans =
+
+    14
+
+
+ans =
+
+     4
+
+
+ans =
+
+    13
+
+
+ans =
+
+     7
+
+
+ans =
+
+    13
+
+
+ans =
+
+    11
+
+
+ans =
+
+    14
+
+
+ans =
+
+     2
+
+
+ans =
+
+    13
+
+
+ans =
+
+     5
+
+
+ans =
+
+    13
+
+
+ans =
+
+     6
+
+
+ans =
+
+    13
+
+
+ans =
+
+     8
+
+
+ans =
+
+    13
+
+
+ans =
+
+     3
+
+
+ans =
+
+    13
+
+
+ans =
+
+    12
+
+
+ans =
+
+    13
+
+
+ans =
+
+    10
+
+
+ans =
+
+    15
+
+
+ans =
+
+     9
+
+
+ans =
+
+    16
+
+
+ans =
+
+    13
+
+
+ans =
+
+     1
+
+
+ans =
+
+    15
+
+
+ans =
+
+     4
+
+
+ans =
+
+    16
+
+
+ans =
+
+    14
+
+
+ans =
+
+     7
+
+
+ans =
+
+    15
+
+
+ans =
+
+     2
+
+
+ans =
+
+    16
+
+
+ans =
+
+    14
+
+
+ans =
+
+    11
+
+
+ans =
+
+    14
+
+
+ans =
+
+     5
+
+
+ans =
+
+    14
+
+
+ans =
+
+     6
+
+
+ans =
+
+    14
+
+
+ans =
+
+     8
+
+
+ans =
+
+    14
+
+
+ans =
+
+     3
+
+
+ans =
+
+    14
+
+
+ans =
+
+    12
+
+
+ans =
+
+    14
+
+
+ans =
+
+    10
+
+
+ans =
+
+    14
+
+
+ans =
+
+     1
+
+
+ans =
+
+    16
+
+
+ans =
+
+    15
+
+
+ans =
+
+     7
+
+
+ans =
+
+    16
+
+
+ans =
+
+    14
+
+
+ans =
+
+    15
+
+
+ans =
+
+    11
+
+
+ans =
+
+    16
+
+
+ans =
+
+    15
+
+
+ans =
+
+     5
+
+
+ans =
+
+    16
+
+
+ans =
+
+    15
+
+
+ans =
+
+     6
+
+
+ans =
+
+    16
+
+
+ans =
+
+    15
+
+
+ans =
+
+     8
+
+
+ans =
+
+    16
+
+
+ans =
+
+    15
+
+
+ans =
+
+     3
+
+
+ans =
+
+    16
+
+
+ans =
+
+    15
+
+
+ans =
+
+    12
+
+
+ans =
+
+    16
+
+
+ans =
+
+    15
+
+
+ans =
+
+    10
+
+
+ans =
+
+    16
+
+
+ans =
+
+     1
+
+
+ans =
+
+    16
+
+
+ans =
+
+    15
+
+
+ans =
+
+     1
+
+
+ans =
+
+    16
+
+
+ans =
+
+     1
+
+
+ans =
+
+    14
+
+
+ans =
+
+    15
+
+
+ans =
+
+     2
+
+
+ans =
+
+    16
+
+
+ans =
+
+    13
+
+
+ans =
+
+     2
+
+
+ans =
+
+    14
+
+
+ans =
+
+     1
+
+
+ans =
+
+    15
+
+
+ans =
+
+     3
+
+
+ans =
+
+    16
+
+
+ans =
+
+     1
+
+
+ans =
+
+    13
+
+
+ans =
+
+     3
+
+
+ans =
+
+    14
+
+
+ans =
+
+     2
+
+
+ans =
+
+    15
+
+
+ans =
+
+     2
+
+
+ans =
+
+    13
+
+
+ans =
+
+     4
+
+
+ans =
+
+    16
+
+
+ans =
+
+     4
+
+
+ans =
+
+    14
+
+
+ans =
+
+     3
+
+
+ans =
+
+    15
+
+
+ans =
+
+     3
+
+
+ans =
+
+    13
+
+
+ans =
+
+     5
+
+
+ans =
+
+    16
+
+
+ans =
+
+     4
+
+
+ans =
+
+    15
+
+
+ans =
+
+     5
+
+
+ans =
+
+    14
+
+
+ans =
+
+     4
+
+
+ans =
+
+    13
+
+
+ans =
+
+     6
+
+
+ans =
+
+    16
+
+
+ans =
+
+     5
+
+
+ans =
+
+    15
+
+
+ans =
+
+     6
+
+
+ans =
+
+    14
+
+
+ans =
+
+     5
+
+
+ans =
+
+    13
+
+
+ans =
+
+     7
+
+
+ans =
+
+    16
+
+
+ans =
+
+     6
+
+
+ans =
+
+    15
+
+
+ans =
+
+     7
+
+
+ans =
+
+    14
+
+
+ans =
+
+     6
+
+
+ans =
+
+    13
+
+
+ans =
+
+     8
+
+
+ans =
+
+    16
+
+
+ans =
+
+     7
+
+
+ans =
+
+    15
+
+
+ans =
+
+     8
+
+
+ans =
+
+    14
+
+
+ans =
+
+     7
+
+
+ans =
+
+    13
+
+
+ans =
+
+     9
+
+
+ans =
+
+    16
+
+
+ans =
+
+     8
+
+
+ans =
+
+    15
+
+
+ans =
+
+     9
+
+
+ans =
+
+    14
+
+
+ans =
+
+     8
+
+
+ans =
+
+    13
+
+
+ans =
+
+     9
+
+
+ans =
+
+    15
+
+
+ans =
+
+    10
+
+
+ans =
+
+    16
+
+
+ans =
+
+    10
+
+
+ans =
+
+    14
+
+
+ans =
+
+    10
+
+
+ans =
+
+    15
+
+
+ans =
+
+     9
+
+
+ans =
+
+    13
+
+
+ans =
+
+    11
+
+
+ans =
+
+    16
+
+
+ans =
+
+    11
+
+
+ans =
+
+    14
+
+
+ans =
+
+    11
+
+
+ans =
+
+    15
+
+
+ans =
+
+    10
+
+
+ans =
+
+    13
+
+
+ans =
+
+    12
+
+
+ans =
+
+    16
+
+
+ans =
+
+    12
+
+
+ans =
+
+    14
+
+
+ans =
+
+    12
+
+
+ans =
+
+    15
+
+
+ans =
+
+    11
+
+
+ans =
+
+    13
+
+
+ans =
+
+    13
+
+
+ans =
+
+    16
+
+
+ans =
+
+    13
+
+
+ans =
+
+    14
+
+
+ans =
+
+    13
+
+
+ans =
+
+    15
+
+
+ans =
+
+    12
+
+
+ans =
+
+    13
+
+
+ans =
+
+    14
+
+
+ans =
+
+    16
+
+
+ans =
+
+    14
+
+
+ans =
+
+    14
+
+
+ans =
+
+    14
+
+
+ans =
+
+    15
+
+
+ans =
+
+    13
+
+
+ans =
+
+    13
+
+
+ans =
+
+    15
+
+
+ans =
+
+    16
+
+
+ans =
+
+    16
+
+
+ans =
+
+    15
+
+
+ans =
+
+    14
+
+
+ans =
+
+    16
+
+
+ans =
+
+    15
+
+
+ans =
+
+    15
+
+
+ans =
+
+    16
+
+
+ans =
+
+    14
+
+
+ans =
+
+    13
+
+
+ans =
+
+    15
+
+
+ans =
+
+    13
+
+
+ans =
+
+    16
+

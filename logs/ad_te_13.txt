@@ -1,0 +1,653 @@
+==========================================
+SLURM_JOB_ID = 866790
+SLURM_NODELIST = gnode044
+SLURM_JOB_GPUS = 2,3
+==========================================
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+Loaded 89 subjects
+Significant regions:
+[ 10947  14324  14825  15041  15043  15108  15175  15365  15429  15431
+  15433  15436  15462  15496  15562  15564  15638  18543  18544  18545
+  18645  18677  18678  18711  18712  18713  18739  18742  18743  18744
+  18779  18782  18783  18784  18809  18812  18813  18814  18845  18846
+  18875  18879  18880  18881  18911  18915  18942  18946  18947  18948
+  18983  19013  19046  19047  19318  19331  19464  19483  19484  19550
+  19749  19917  21192  22933  23001  23003  23068  23069  23235  23266
+  23267  23268  23271  23334  23338  23401  23402  23403  23502  23568
+  23570  23732  24203  24642  25178  26017  26235  27352  27424  27486
+  27488  27556  27557  27558  27622  27623  27689  27757  27891  27990
+  27993  28057  28060  29600  30373  30538  30605  31710  31775  31777
+  31845  31913  32241  34224  34654  34720  35227  36264  36333  36601
+  39649  39693  39715  39761  40686  40692  40759  40824  40826  41085
+  41152  41153  41688  44248  44249  44319  45178  45440  46177  46284
+  47182  48672  48739  51738  51739  53296  54658  56429  60650  61921
+  65004  65140  65941  67648  68823  69226  69493  72134  72135  73781
+  74117  75188  76691  76693  76695  76696  76699  78337  78474  78475
+  78606  79985  81181  81188  82964  83096  84168  84539  84606  85676
+  85708  86730  88186  90163  91216  91217  91219  91283  91285  91416
+  94651  94652  95705  95907  97873 100535 107176 109445 109512 109693
+ 109827 114182 118164 118368 120579 122652 126077 126309 127783 136628
+ 136629 138276 141386 142765 145605 147280 151609 154853 156166 161896
+ 161962 162596 164030 165143 167220 168452 168519 173678 176064 176130
+ 184671 185847 187788 192276 192277 193750 193751 196057 198573 199044
+ 199111 199112 201309 203167 207856 207923 208056 208404 208615 208660
+ 213033]
+AD sub:  13 ; CN sub:  40
+(228939, 140) (228939, 140)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+Loaded 89 subjects
+Significant regions:
+[ 10947  14324  14825  15041  15043  15108  15175  15365  15429  15431
+  15433  15436  15462  15496  15562  15564  15638  18543  18544  18545
+  18645  18677  18678  18711  18712  18713  18739  18742  18743  18744
+  18779  18782  18783  18784  18809  18812  18813  18814  18845  18846
+  18875  18879  18880  18881  18911  18915  18942  18946  18947  18948
+  18983  19013  19046  19047  19318  19331  19464  19483  19484  19550
+  19749  19917  21192  22933  23001  23003  23068  23069  23235  23266
+  23267  23268  23271  23334  23338  23401  23402  23403  23502  23568
+  23570  23732  24203  24642  25178  26017  26235  27352  27424  27486
+  27488  27556  27557  27558  27622  27623  27689  27757  27891  27990
+  27993  28057  28060  29600  30373  30538  30605  31710  31775  31777
+  31845  31913  32241  34224  34654  34720  35227  36264  36333  36601
+  39649  39693  39715  39761  40686  40692  40759  40824  40826  41085
+  41152  41153  41688  44248  44249  44319  45178  45440  46177  46284
+  47182  48672  48739  51738  51739  53296  54658  56429  60650  61921
+  65004  65140  65941  67648  68823  69226  69493  72134  72135  73781
+  74117  75188  76691  76693  76695  76696  76699  78337  78474  78475
+  78606  79985  81181  81188  82964  83096  84168  84539  84606  85676
+  85708  86730  88186  90163  91216  91217  91219  91283  91285  91416
+  94651  94652  95705  95907  97873 100535 107176 109445 109512 109693
+ 109827 114182 118164 118368 120579 122652 126077 126309 127783 136628
+ 136629 138276 141386 142765 145605 147280 151609 154853 156166 161896
+ 161962 162596 164030 165143 167220 168452 168519 173678 176064 176130
+ 184671 185847 187788 192276 192277 193750 193751 196057 198573 199044
+ 199111 199112 201309 203167 207856 207923 208056 208404 208615 208660
+ 213033]
+AD sub:  13 ; CN sub:  40
+(228939, 140) (228939, 140)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+/scratch/shivansh.seth/preproc/lib/python3.10/site-packages/numba/core/decorators.py:253: RuntimeWarning: nopython is set for njit and is ignored
+  warnings.warn('nopython is set for njit and is ignored', RuntimeWarning)
+Ran 10947 in 52.6636757850647 seconds
+Ran 14324 in 49.577882289886475 seconds
+Ran 14825 in 49.2592236995697 seconds
+Ran 15041 in 50.14570188522339 seconds
+Ran 15043 in 49.65735054016113 seconds
+Ran 15108 in 49.66639232635498 seconds
+Ran 15175 in 49.3089702129364 seconds
+Ran 15365 in 49.32991886138916 seconds
+Ran 15429 in 49.65742301940918 seconds
+Ran 15431 in 49.46190071105957 seconds
+Ran 15433 in 49.26448106765747 seconds
+Ran 15436 in 49.49649214744568 seconds
+Ran 15462 in 49.22894501686096 seconds
+Ran 15496 in 49.35662007331848 seconds
+Ran 15562 in 49.193434715270996 seconds
+Ran 15564 in 49.89068269729614 seconds
+Ran 15638 in 49.35099506378174 seconds
+Ran 18543 in 49.77064871788025 seconds
+Ran 18544 in 49.402936935424805 seconds
+Ran 18545 in 49.50358486175537 seconds
+Ran 18645 in 49.2528817653656 seconds
+Ran 18677 in 49.47955870628357 seconds
+Ran 18678 in 50.11021566390991 seconds
+Ran 18711 in 49.29694414138794 seconds
+Ran 18712 in 49.25485372543335 seconds
+Ran 18713 in 49.62909412384033 seconds
+Ran 18739 in 49.562838077545166 seconds
+Ran 18742 in 49.32764434814453 seconds
+Ran 18743 in 49.47332978248596 seconds
+Ran 18744 in 49.568275928497314 seconds
+Ran 18779 in 49.26468229293823 seconds
+Ran 18782 in 49.746521949768066 seconds
+Ran 18783 in 49.56286978721619 seconds
+Ran 18784 in 49.65670895576477 seconds
+Ran 18809 in 49.523825883865356 seconds
+Ran 18812 in 49.576950788497925 seconds
+Ran 18813 in 49.62559962272644 seconds
+Ran 18814 in 49.559407472610474 seconds
+Ran 18845 in 49.34833741188049 seconds
+Ran 18846 in 49.333669662475586 seconds
+Ran 18875 in 49.41844725608826 seconds
+Ran 18879 in 49.637736082077026 seconds
+Ran 18880 in 49.60295128822327 seconds
+Ran 18881 in 49.32351803779602 seconds
+Ran 18911 in 49.383426904678345 seconds
+Ran 18915 in 49.341508865356445 seconds
+Ran 18942 in 49.86228108406067 seconds
+Ran 18946 in 49.71875882148743 seconds
+Ran 18947 in 49.744107246398926 seconds
+Ran 18948 in 49.407379388809204 seconds
+Ran 18983 in 49.548571825027466 seconds
+Ran 19013 in 49.46725344657898 seconds
+Ran 19046 in 49.39934229850769 seconds
+Ran 19047 in 49.470704793930054 seconds
+Ran 19318 in 49.37424921989441 seconds
+Ran 19331 in 49.38110971450806 seconds
+Ran 19464 in 49.34708547592163 seconds
+Ran 19483 in 49.143646001815796 seconds
+Ran 19484 in 49.151766538619995 seconds
+Ran 19550 in 49.68085503578186 seconds
+Ran 19749 in 49.1863169670105 seconds
+Ran 19917 in 49.23188257217407 seconds
+Ran 21192 in 49.637229919433594 seconds
+Ran 22933 in 49.45252704620361 seconds
+Ran 23001 in 50.239919662475586 seconds
+Ran 23003 in 49.51032781600952 seconds
+Ran 23068 in 49.37598633766174 seconds
+Ran 23069 in 49.50473618507385 seconds
+Ran 23235 in 49.500375747680664 seconds
+Ran 23266 in 49.42591953277588 seconds
+Ran 23267 in 49.440587520599365 seconds
+Ran 23268 in 49.411048889160156 seconds
+Ran 23271 in 49.493298053741455 seconds
+Ran 23334 in 49.51858830451965 seconds
+Ran 23338 in 49.36015486717224 seconds
+Ran 23401 in 49.473408699035645 seconds
+Ran 23402 in 49.43220043182373 seconds
+Ran 23403 in 49.437230348587036 seconds
+Ran 23502 in 49.57339692115784 seconds
+Ran 23568 in 50.168922662734985 seconds
+Ran 23570 in 49.64964461326599 seconds
+Ran 23732 in 49.441558599472046 seconds
+Ran 24203 in 49.45397663116455 seconds
+Ran 24642 in 49.28368020057678 seconds
+Ran 25178 in 49.44135928153992 seconds
+Ran 26017 in 49.58205723762512 seconds
+Ran 26235 in 49.75647974014282 seconds
+Ran 27352 in 49.54554462432861 seconds
+Ran 27424 in 49.81828165054321 seconds
+Ran 27486 in 49.52142310142517 seconds
+Ran 27488 in 49.445953607559204 seconds
+Ran 27556 in 49.531957387924194 seconds
+Ran 27557 in 50.90811228752136 seconds
+Ran 27558 in 49.71104884147644 seconds
+Ran 27622 in 49.49852657318115 seconds
+Ran 27623 in 49.49018359184265 seconds
+Ran 27689 in 49.537928342819214 seconds
+Ran 27757 in 49.476319551467896 seconds
+Ran 27891 in 49.53369855880737 seconds
+Ran 27990 in 49.708221197128296 seconds
+Ran 27993 in 49.86553192138672 seconds
+Ran 28057 in 49.896669149398804 seconds
+Ran 28060 in 49.650572538375854 seconds
+Ran 29600 in 49.75195288658142 seconds
+Ran 30373 in 49.58458924293518 seconds
+Ran 30538 in 49.32788157463074 seconds
+Ran 30605 in 49.39735269546509 seconds
+Ran 31710 in 49.53645420074463 seconds
+Ran 31775 in 49.493483543395996 seconds
+Ran 31777 in 49.63279151916504 seconds
+Ran 31845 in 49.50277352333069 seconds
+Ran 31913 in 49.576075077056885 seconds
+Ran 32241 in 49.54683518409729 seconds
+Ran 34224 in 49.07430410385132 seconds
+Ran 34654 in 49.46585726737976 seconds
+Ran 34720 in 49.462651014328 seconds
+Ran 35227 in 49.20966553688049 seconds
+Ran 36264 in 49.635164976119995 seconds
+Ran 36333 in 49.871824979782104 seconds
+Ran 36601 in 49.48348569869995 seconds
+Ran 39649 in 49.694488286972046 seconds
+Ran 39693 in 49.78093218803406 seconds
+Ran 39715 in 49.57645916938782 seconds
+Ran 39761 in 49.72648334503174 seconds
+Ran 40686 in 49.62165665626526 seconds
+Ran 40692 in 49.47896885871887 seconds
+Ran 40759 in 49.50822901725769 seconds
+Ran 40824 in 49.31627583503723 seconds
+Ran 40826 in 49.48187851905823 seconds
+Ran 41085 in 49.934025287628174 seconds
+Ran 41152 in 49.932363748550415 seconds
+Ran 41153 in 49.594072580337524 seconds
+Ran 41688 in 49.668097257614136 seconds
+Ran 44248 in 49.41974449157715 seconds
+Ran 44249 in 49.54500722885132 seconds
+Ran 44319 in 49.357048988342285 seconds
+Ran 45178 in 49.97530817985535 seconds
+Ran 45440 in 49.64783310890198 seconds
+Ran 46177 in 49.46867322921753 seconds
+Ran 46284 in 49.98217487335205 seconds
+Ran 47182 in 49.56070375442505 seconds
+Ran 48672 in 49.99396634101868 seconds
+Ran 48739 in 49.59371328353882 seconds
+Ran 51738 in 49.99072575569153 seconds
+Ran 51739 in 49.66459679603577 seconds
+Ran 53296 in 49.542205572128296 seconds
+Ran 54658 in 49.465487480163574 seconds
+Ran 56429 in 49.61434364318848 seconds
+Ran 60650 in 49.651960134506226 seconds
+Ran 61921 in 49.61769342422485 seconds
+Ran 65004 in 49.61866092681885 seconds
+Ran 65140 in 49.67360496520996 seconds
+Ran 65941 in 49.50626516342163 seconds
+Ran 67648 in 50.05060315132141 seconds
+Ran 68823 in 49.51704788208008 seconds
+Ran 69226 in 49.70338177680969 seconds
+Ran 69493 in 49.63278365135193 seconds
+Ran 72134 in 50.0003023147583 seconds
+Ran 72135 in 50.37337398529053 seconds
+Ran 73781 in 49.59270238876343 seconds
+Ran 74117 in 49.76620149612427 seconds
+Ran 75188 in 50.08667063713074 seconds
+Ran 76691 in 50.02088809013367 seconds
+Ran 76693 in 49.92971110343933 seconds
+Ran 76695 in 49.50191593170166 seconds
+Ran 76696 in 50.30904960632324 seconds
+Ran 76699 in 49.665656089782715 seconds
+Ran 78337 in 49.63233280181885 seconds
+Ran 78474 in 49.61607813835144 seconds
+Ran 78475 in 49.58951115608215 seconds
+Ran 78606 in 49.97584557533264 seconds
+Ran 79985 in 49.63674807548523 seconds
+Ran 81181 in 49.96042466163635 seconds
+Ran 81188 in 49.77501606941223 seconds
+Ran 82964 in 49.73766827583313 seconds
+Ran 83096 in 49.73918080329895 seconds
+Ran 84168 in 50.33657956123352 seconds
+Ran 84539 in 49.64262580871582 seconds
+Ran 84606 in 49.64832854270935 seconds
+Ran 85676 in 49.90429091453552 seconds
+Ran 85708 in 50.23196840286255 seconds
+Ran 86730 in 50.03084921836853 seconds
+Ran 88186 in 49.83290243148804 seconds
+Ran 90163 in 50.00963878631592 seconds
+Ran 91216 in 49.283048152923584 seconds
+Ran 91217 in 49.57504105567932 seconds
+Ran 91219 in 50.31176686286926 seconds
+Ran 91283 in 49.562461853027344 seconds
+Ran 91285 in 49.68934345245361 seconds
+Ran 91416 in 48.80974316596985 seconds
+Ran 94651 in 49.716755867004395 seconds
+Ran 94652 in 50.17708110809326 seconds
+Ran 95705 in 49.01986360549927 seconds
+Ran 95907 in 49.529874086380005 seconds
+Ran 97873 in 49.47194695472717 seconds
+Ran 100535 in 49.51078701019287 seconds
+Ran 107176 in 49.65252685546875 seconds
+Ran 109445 in 49.509119510650635 seconds
+Ran 109512 in 49.70599865913391 seconds
+Ran 109693 in 50.60101389884949 seconds
+Ran 109827 in 49.748518228530884 seconds
+Ran 114182 in 49.80667066574097 seconds
+Ran 118164 in 49.63527512550354 seconds
+Ran 118368 in 49.25832009315491 seconds
+Ran 120579 in 50.00034499168396 seconds
+Ran 122652 in 49.75120759010315 seconds
+Ran 126077 in 50.18496656417847 seconds
+Ran 126309 in 49.69429302215576 seconds
+Ran 127783 in 49.79873490333557 seconds
+Ran 136628 in 49.8661208152771 seconds
+Ran 136629 in 49.756507873535156 seconds
+Ran 138276 in 49.92998266220093 seconds
+Ran 141386 in 49.69689059257507 seconds
+Ran 142765 in 49.81568694114685 seconds
+Ran 145605 in 49.81970405578613 seconds
+Ran 147280 in 49.771190881729126 seconds
+Ran 151609 in 49.94168567657471 seconds
+Ran 154853 in 50.71114230155945 seconds
+Ran 156166 in 49.77492308616638 seconds
+Ran 161896 in 49.767826080322266 seconds
+Ran 161962 in 49.76462483406067 seconds
+Ran 162596 in 49.227359771728516 seconds
+Ran 164030 in 49.87754154205322 seconds
+Ran 165143 in 49.701165199279785 seconds
+Ran 167220 in 49.593881368637085 seconds
+Ran 168452 in 49.83855485916138 seconds
+Ran 168519 in 49.7821900844574 seconds
+Ran 173678 in 49.73638081550598 seconds
+Ran 176064 in 49.83961200714111 seconds
+Ran 176130 in 49.89998245239258 seconds
+Ran 184671 in 49.99692916870117 seconds
+Ran 185847 in 51.40750336647034 seconds
+Ran 187788 in 50.001453161239624 seconds
+Ran 192276 in 50.48691940307617 seconds
+Ran 192277 in 49.81994581222534 seconds
+Ran 193750 in 50.50098776817322 seconds
+Ran 193751 in 49.959831953048706 seconds
+Ran 196057 in 50.21331071853638 seconds
+Ran 198573 in 49.58486247062683 seconds
+Ran 199044 in 49.93191933631897 seconds
+Ran 199111 in 51.01061940193176 seconds
+Ran 199112 in 49.752434968948364 seconds
+Ran 201309 in 50.73493766784668 seconds
+Ran 203167 in 49.76069951057434 seconds
+Ran 207856 in 49.99541187286377 seconds
+Ran 207923 in 50.064738035202026 seconds
+Ran 208056 in 50.23565626144409 seconds
+Ran 208404 in 50.06520342826843 seconds
+Ran 208615 in 49.90218687057495 seconds
+Ran 208660 in 49.712854623794556 seconds
+Ran 213033 in 49.93980264663696 seconds
+Finished calc in 12471.275305747986 seconds
+Ran 10947 in 52.84589385986328 seconds
+Ran 14324 in 49.51607894897461 seconds
+Ran 14825 in 49.70630407333374 seconds
+Ran 15041 in 49.671735525131226 seconds
+Ran 15043 in 50.18306517601013 seconds
+Ran 15108 in 49.650214195251465 seconds
+Ran 15175 in 49.76660919189453 seconds
+Ran 15365 in 49.38050580024719 seconds
+Ran 15429 in 50.06852865219116 seconds
+Ran 15431 in 49.42011046409607 seconds
+Ran 15433 in 49.843466997146606 seconds
+Ran 15436 in 49.39875245094299 seconds
+Ran 15462 in 49.144405126571655 seconds
+Ran 15496 in 49.30104732513428 seconds
+Ran 15562 in 49.39365077018738 seconds
+Ran 15564 in 49.89514780044556 seconds
+Ran 15638 in 49.59969472885132 seconds
+Ran 18543 in 49.92690348625183 seconds
+Ran 18544 in 49.69721817970276 seconds
+Ran 18545 in 49.3712432384491 seconds
+Ran 18645 in 49.200496196746826 seconds
+Ran 18677 in 49.415366888046265 seconds
+Ran 18678 in 49.53065347671509 seconds
+Ran 18711 in 49.20582914352417 seconds
+Ran 18712 in 49.16270732879639 seconds
+Ran 18713 in 49.55065894126892 seconds
+Ran 18739 in 49.650341510772705 seconds
+Ran 18742 in 49.276089668273926 seconds
+Ran 18743 in 49.43859004974365 seconds
+Ran 18744 in 49.493197441101074 seconds
+Ran 18779 in 49.22638702392578 seconds
+Ran 18782 in 49.745142221450806 seconds
+Ran 18783 in 49.49128341674805 seconds
+Ran 18784 in 49.68820285797119 seconds
+Ran 18809 in 49.4511935710907 seconds
+Ran 18812 in 49.64375901222229 seconds
+Ran 18813 in 49.49587678909302 seconds
+Ran 18814 in 49.19534683227539 seconds
+Ran 18845 in 49.29076910018921 seconds
+Ran 18846 in 49.28186750411987 seconds
+Ran 18875 in 49.36457180976868 seconds
+Ran 18879 in 49.62057709693909 seconds
+Ran 18880 in 49.19027638435364 seconds
+Ran 18881 in 49.34542107582092 seconds
+Ran 18911 in 49.40191149711609 seconds
+Ran 18915 in 49.351362466812134 seconds
+Ran 18942 in 49.82967829704285 seconds
+Ran 18946 in 49.614973068237305 seconds
+Ran 18947 in 49.44642758369446 seconds
+Ran 18948 in 49.48650646209717 seconds
+Ran 18983 in 49.56905460357666 seconds
+Ran 19013 in 49.50987768173218 seconds
+Ran 19046 in 49.338706731796265 seconds
+Ran 19047 in 49.47426414489746 seconds
+Ran 19318 in 49.235960245132446 seconds
+Ran 19331 in 49.32938575744629 seconds
+Ran 19464 in 49.312034130096436 seconds
+Ran 19483 in 49.12412667274475 seconds
+Ran 19484 in 49.88295888900757 seconds
+Ran 19550 in 49.64422011375427 seconds
+Ran 19749 in 49.19019651412964 seconds
+Ran 19917 in 49.18934154510498 seconds
+Ran 21192 in 50.31422138214111 seconds
+Ran 22933 in 49.442265033721924 seconds
+Ran 23001 in 49.53802180290222 seconds
+Ran 23003 in 49.5638952255249 seconds
+Ran 23068 in 49.848466873168945 seconds
+Ran 23069 in 50.26152515411377 seconds
+Ran 23235 in 49.47510266304016 seconds
+Ran 23266 in 49.40718340873718 seconds
+Ran 23267 in 49.44558024406433 seconds
+Ran 23268 in 49.36990737915039 seconds
+Ran 23271 in 49.428349018096924 seconds
+Ran 23334 in 49.45219087600708 seconds
+Ran 23338 in 49.507018089294434 seconds
+Ran 23401 in 49.49115061759949 seconds
+Ran 23402 in 49.521406412124634 seconds
+Ran 23403 in 49.355918407440186 seconds
+Ran 23502 in 49.639994621276855 seconds
+Ran 23568 in 49.41333365440369 seconds
+Ran 23570 in 49.588422536849976 seconds
+Ran 23732 in 49.38567876815796 seconds
+Ran 24203 in 49.28620266914368 seconds
+Ran 24642 in 49.25724911689758 seconds
+Ran 25178 in 49.39048528671265 seconds
+Ran 26017 in 49.867860078811646 seconds
+Ran 26235 in 49.58159375190735 seconds
+Ran 27352 in 49.62427377700806 seconds
+Ran 27424 in 49.83450269699097 seconds
+Ran 27486 in 49.76086354255676 seconds
+Ran 27488 in 50.01583194732666 seconds
+Ran 27556 in 49.33944797515869 seconds
+Ran 27557 in 50.30101275444031 seconds
+Ran 27558 in 50.307278871536255 seconds
+Ran 27622 in 49.51828646659851 seconds
+Ran 27623 in 49.501566886901855 seconds
+Ran 27689 in 49.54487657546997 seconds
+Ran 27757 in 49.457112073898315 seconds
+Ran 27891 in 49.566816329956055 seconds
+Ran 27990 in 49.64365005493164 seconds
+Ran 27993 in 49.759737491607666 seconds
+Ran 28057 in 49.83326697349548 seconds
+Ran 28060 in 49.54244565963745 seconds
+Ran 29600 in 49.70138907432556 seconds
+Ran 30373 in 49.09731984138489 seconds
+Ran 30538 in 49.37772464752197 seconds
+Ran 30605 in 49.418497800827026 seconds
+Ran 31710 in 49.4503333568573 seconds
+Ran 31775 in 49.551345109939575 seconds
+Ran 31777 in 49.81423282623291 seconds
+Ran 31845 in 49.5392861366272 seconds
+Ran 31913 in 49.4980263710022 seconds
+Ran 32241 in 49.490177392959595 seconds
+Ran 34224 in 49.050780057907104 seconds
+Ran 34654 in 49.568885803222656 seconds
+Ran 34720 in 49.49680304527283 seconds
+Ran 35227 in 49.12244009971619 seconds
+Ran 36264 in 49.636335611343384 seconds
+Ran 36333 in 49.49333882331848 seconds
+Ran 36601 in 49.52481555938721 seconds
+Ran 39649 in 49.636478424072266 seconds
+Ran 39693 in 49.65863537788391 seconds
+Ran 39715 in 49.52483797073364 seconds
+Ran 39761 in 49.64761734008789 seconds
+Ran 40686 in 49.63511633872986 seconds
+Ran 40692 in 49.392149925231934 seconds
+Ran 40759 in 49.479886531829834 seconds
+Ran 40824 in 49.618070125579834 seconds
+Ran 40826 in 49.419809341430664 seconds
+Ran 41085 in 49.56577467918396 seconds
+Ran 41152 in 49.48950791358948 seconds
+Ran 41153 in 49.50051307678223 seconds
+Ran 41688 in 49.5980179309845 seconds
+Ran 44248 in 49.257768392562866 seconds
+Ran 44249 in 49.4002788066864 seconds
+Ran 44319 in 49.35307598114014 seconds
+Ran 45178 in 49.493767499923706 seconds
+Ran 45440 in 49.54081583023071 seconds
+Ran 46177 in 49.564563035964966 seconds
+Ran 46284 in 49.77217102050781 seconds
+Ran 47182 in 49.58298444747925 seconds
+Ran 48672 in 50.35638236999512 seconds
+Ran 48739 in 49.42025184631348 seconds
+Ran 51738 in 49.51715970039368 seconds
+Ran 51739 in 49.62881660461426 seconds
+Ran 53296 in 49.43506193161011 seconds
+Ran 54658 in 49.321004152297974 seconds
+Ran 56429 in 49.56828784942627 seconds
+Ran 60650 in 49.44710040092468 seconds
+Ran 61921 in 49.68649387359619 seconds
+Ran 65004 in 49.46839118003845 seconds
+Ran 65140 in 49.51945471763611 seconds
+Ran 65941 in 49.55983281135559 seconds
+Ran 67648 in 49.88116526603699 seconds
+Ran 68823 in 49.522114515304565 seconds
+Ran 69226 in 49.52061629295349 seconds
+Ran 69493 in 49.59100317955017 seconds
+Ran 72134 in 49.99070501327515 seconds
+Ran 72135 in 50.223448753356934 seconds
+Ran 73781 in 49.61616492271423 seconds
+Ran 74117 in 49.47451329231262 seconds
+Ran 75188 in 49.61123085021973 seconds
+Ran 76691 in 49.907986879348755 seconds
+Ran 76693 in 49.961472272872925 seconds
+Ran 76695 in 49.51467418670654 seconds
+Ran 76696 in 50.72554159164429 seconds
+Ran 76699 in 49.59693694114685 seconds
+Ran 78337 in 49.52467083930969 seconds
+Ran 78474 in 49.445058822631836 seconds
+Ran 78475 in 49.4910523891449 seconds
+Ran 78606 in 49.65981078147888 seconds
+Ran 79985 in 49.52358055114746 seconds
+Ran 81181 in 49.94479441642761 seconds
+Ran 81188 in 49.71380543708801 seconds
+Ran 82964 in 49.641295433044434 seconds
+Ran 83096 in 49.57651138305664 seconds
+Ran 84168 in 49.832613468170166 seconds
+Ran 84539 in 49.391411542892456 seconds
+Ran 84606 in 50.60520935058594 seconds
+Ran 85676 in 49.82439112663269 seconds
+Ran 85708 in 49.641483306884766 seconds
+Ran 86730 in 49.57706594467163 seconds
+Ran 88186 in 49.70556378364563 seconds
+Ran 90163 in 49.953460693359375 seconds
+Ran 91216 in 48.933204650878906 seconds
+Ran 91217 in 49.529155015945435 seconds
+Ran 91219 in 49.38280534744263 seconds
+Ran 91283 in 49.53120708465576 seconds
+Ran 91285 in 49.62455654144287 seconds
+Ran 91416 in 48.80421829223633 seconds
+Ran 94651 in 49.72363352775574 seconds
+Ran 94652 in 50.07909417152405 seconds
+Ran 95705 in 49.6532027721405 seconds
+Ran 95907 in 49.447917222976685 seconds
+Ran 97873 in 49.542808532714844 seconds
+Ran 100535 in 49.43648433685303 seconds
+Ran 107176 in 49.56457209587097 seconds
+Ran 109445 in 49.575809478759766 seconds
+Ran 109512 in 49.62958550453186 seconds
+Ran 109693 in 49.74005055427551 seconds
+Ran 109827 in 49.68496632575989 seconds
+Ran 114182 in 49.67688488960266 seconds
+Ran 118164 in 49.69050359725952 seconds
+Ran 118368 in 49.13222146034241 seconds
+Ran 120579 in 50.006258726119995 seconds
+Ran 122652 in 49.862343311309814 seconds
+Ran 126077 in 49.9943482875824 seconds
+Ran 126309 in 50.79281520843506 seconds
+Ran 127783 in 49.79298543930054 seconds
+Ran 136628 in 49.82208251953125 seconds
+Ran 136629 in 49.71739077568054 seconds
+Ran 138276 in 50.04251480102539 seconds
+Ran 141386 in 49.71543836593628 seconds
+Ran 142765 in 49.67834544181824 seconds
+Ran 145605 in 49.786701917648315 seconds
+Ran 147280 in 49.63918948173523 seconds
+Ran 151609 in 49.78012442588806 seconds
+Ran 154853 in 49.67755699157715 seconds
+Ran 156166 in 49.77361726760864 seconds
+Ran 161896 in 49.88145041465759 seconds
+Ran 161962 in 49.496278285980225 seconds
+Ran 162596 in 49.39285206794739 seconds
+Ran 164030 in 49.82625436782837 seconds
+Ran 165143 in 49.72424077987671 seconds
+Ran 167220 in 50.597633600234985 seconds
+Ran 168452 in 49.86496591567993 seconds
+Ran 168519 in 49.84104919433594 seconds
+Ran 173678 in 49.82805371284485 seconds
+Ran 176064 in 49.797755002975464 seconds
+Ran 176130 in 49.93833327293396 seconds
+Ran 184671 in 49.7951238155365 seconds
+Ran 185847 in 50.534141540527344 seconds
+Ran 187788 in 49.8172664642334 seconds
+Ran 192276 in 50.096033573150635 seconds
+Ran 192277 in 49.931065797805786 seconds
+Ran 193750 in 49.74570345878601 seconds
+Ran 193751 in 50.04075288772583 seconds
+Ran 196057 in 49.7974739074707 seconds
+Ran 198573 in 49.638059854507446 seconds
+Ran 199044 in 49.9869487285614 seconds
+Ran 199111 in 50.061155796051025 seconds
+Ran 199112 in 50.657464027404785 seconds
+Ran 201309 in 50.457237005233765 seconds
+Ran 203167 in 49.85575342178345 seconds
+Ran 207856 in 50.00123476982117 seconds
+Ran 207923 in 50.22770667076111 seconds
+Ran 208056 in 50.15838837623596 seconds
+Ran 208404 in 49.9880473613739 seconds
+Ran 208615 in 50.11265587806702 seconds
+Ran 208660 in 49.45792579650879 seconds
+Ran 213033 in 50.086952924728394 seconds
+Finished calc in 12461.235577344894 seconds
